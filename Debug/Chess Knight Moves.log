@@ -1,0 +1,3 @@
+﻿  q7.c
+C:\Users\Yaniv\source\repos\Chess Knight Moves\Chess Knight Moves\q7.c(104,33): warning C4013: 'toupper' undefined; assuming extern returning int
+  Chess Knight Moves.vcxproj -> C:\Users\Yaniv\source\repos\Chess Knight Moves\Debug\Chess Knight Moves.exe
